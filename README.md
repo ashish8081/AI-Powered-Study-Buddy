@@ -213,14 +213,20 @@ The model generates an answer using only the retrieved context.
 
 Add screenshot here
 
+![alt text](<Screenshot 2026-06-13 111253.png>)
+
+
 ### PDF Upload
 
 Add screenshot here
+![alt text](<Screenshot 2026-06-13 111324.png>)
+
 
 ### Question Answering
 
-Add screenshot here
 
+Add screenshot here
+![alt text](<Screenshot 2026-06-13 111349.png>)
 ---
 
 ## 🎯 Example Questions
